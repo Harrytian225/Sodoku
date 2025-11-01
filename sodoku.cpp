@@ -133,7 +133,7 @@ int main()
             cout<<endl;
         }
     }
-    cout<<"共有"<<k<<"个不同的解"<<endl;
+    cout<<"There are "<<k<<" different solution(s)."<<endl;
 }
 /*
 
