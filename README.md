@@ -15,6 +15,9 @@ The solver accepts a 9x9 grid where:
 - Known cells contain numbers 1-9
 - Unknown cells are represented by `0`
 
+## Executable file
+"a.out" is an executable file I've created.
+
 ## Usage
 
 ```bash
