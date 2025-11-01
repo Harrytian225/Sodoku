@@ -15,13 +15,17 @@ The solver accepts a 9x9 grid where:
 - Known cells contain numbers 1-9
 - Unknown cells are represented by `0`
 
-## Executable file
-"a.out" is an executable file I've created.
+## 🚀 Compilation
+
+```bash
+g++ -std=c++11 -O2 sudoku_solver.cpp -o sudoku_solver
+./sudoku_solver
+```
 
 ## Usage
 
 ```bash
-./sudoku_solver
+
 
 Example input:
 8 2 0 3 0 6 0 0 4
